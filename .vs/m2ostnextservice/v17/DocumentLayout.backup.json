@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TGC\\Skillmuni_Job_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getjobpreferencesdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getjobpreferencesdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\uploadextracertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\uploadextracertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|f:\\tgc\\skillmuni_job_api\\skillmuniwebservice\\controllers\\classiccvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\classiccvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getcategorywisejobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getcategorywisejobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\updatejobpreferencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\updatejobpreferencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\videoresumegetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\videoresumegetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|f:\\tgc\\skillmuni_job_api\\skillmuniwebservice\\controllers\\videoresumepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\videoresumepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getcountrylistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getcountrylistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|f:\\tgc\\skillmuni_job_api\\skillmuniwebservice\\models\\briefmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\briefmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getalljobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getalljobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getallappliedjobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getallappliedjobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getjobpreferencesdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getjobpreferencesdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getjobcatlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getjobcatlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getjobcategorylistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getjobcategorylistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getindustrylistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getindustrylistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|f:\\tgc\\skillmuni_job_api\\skillmuniwebservice\\controllers\\getjobprefstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getjobprefstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getjoburlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getjoburlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getjobrolelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getjobrolelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\appyjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\appyjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\controllers\\getcitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\controllers\\getcitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\win10\\AppData\\Local\\Temp\\.vsdbgsrc\\8f01249c824e28c9479370054bfca37fe8d31edf2a7cb542b8e621b644593f29\\ExceptionDispatchInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\tbl_job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\tbl_job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\jobsresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\jobsresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\cedataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\cedataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\cedashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\cedashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\m2ostnextservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\m2ostnextservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\colorconfigmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\colorconfigmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\colorconfiglogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\colorconfiglogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\models\\changepasswordlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\models\\changepasswordlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347298A3-760E-42F7-BB0F-99DF0790AEAA}|skillmuniwebservice\\m2ostnextservice.csproj|solutionrelative:skillmuniwebservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\tbl_role2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:skillmuniwebservice\\tbl_role2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateJobpreferencesController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\UpdateJobpreferencesController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\UpdateJobpreferencesController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\UpdateJobpreferencesController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\UpdateJobpreferencesController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:37:46.868Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadExtraCertificateController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\UploadExtraCertificateController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\UploadExtraCertificateController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\UploadExtraCertificateController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\UploadExtraCertificateController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:45:17.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "getJobPreferencesDetailsController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobPreferencesDetailsController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getJobPreferencesDetailsController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobPreferencesDetailsController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getJobPreferencesDetailsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:30:08.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getCategorywiseJobsController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getCategorywiseJobsController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getCategorywiseJobsController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getCategorywiseJobsController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getCategorywiseJobsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:30:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassicCVController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\ClassicCVController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\ClassicCVController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\ClassicCVController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\ClassicCVController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCQAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:07:17.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoResumeGetController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\VideoResumeGetController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\VideoResumeGetController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\VideoResumeGetController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\VideoResumeGetController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:58:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideoResumePostController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\VideoResumePostController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\VideoResumePostController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\VideoResumePostController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\VideoResumePostController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDcAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:57:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "getCountryListController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getCountryListController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getCountryListController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getCountryListController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getCountryListController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:33:22.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BriefModel.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\BriefModel.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\BriefModel.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\BriefModel.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\BriefModel.cs",
+              "ViewState": "AgIAAM8CAAAAAAAAAAAnwOICAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:33:09.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "getAllJobsController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getAllJobsController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getAllJobsController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getAllJobsController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getAllJobsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:25:05.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "getAllAppliedJobsController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getAllAppliedJobsController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getAllAppliedJobsController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getAllAppliedJobsController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getAllAppliedJobsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:28:59.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "getJobPreferencesDataController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobPreferencesDataController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getJobPreferencesDataController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobPreferencesDataController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getJobPreferencesDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:35:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "getJobCatListController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobCatListController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getJobCatListController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobCatListController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getJobCatListController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:30:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "getJobCategoryListController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobCategoryListController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getJobCategoryListController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobCategoryListController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getJobCategoryListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:24:47.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:20:09.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "getIndustryListController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getIndustryListController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getIndustryListController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getIndustryListController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getIndustryListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:24:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "getJobRoleListController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobRoleListController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getJobRoleListController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobRoleListController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getJobRoleListController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:18:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "getStateController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getStateController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getStateController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getStateController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getStateController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:15:41.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "getJobUrlController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobUrlController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getJobUrlController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobUrlController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getJobUrlController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:18:25.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "getJobPrefStatusController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobPrefStatusController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getJobPrefStatusController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getJobPrefStatusController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getJobPrefStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:56:23.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Web.config",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Web.config",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Web.config",
+              "RelativeToolTip": "skillmuniwebservice\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-20T10:59:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppyJobController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\AppyJobController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\AppyJobController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\AppyJobController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\AppyJobController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAuwKMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:55:08.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "tbl_role2.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\tbl_role2.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\tbl_role2.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\tbl_role2.cs",
+              "RelativeToolTip": "skillmuniwebservice\\tbl_role2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:13:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "getCitiesController.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getCitiesController.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Controllers\\getCitiesController.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Controllers\\getCitiesController.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Controllers\\getCitiesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:02:15.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignupModel.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\SignupModel.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\SignupModel.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\SignupModel.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\SignupModel.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAtwDMBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:07:36.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobDbContext.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\JobDbContext.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\JobDbContext.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\JobDbContext.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\JobDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:31:07.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionDispatchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\AppData\\Local\\Temp\\.vsdbgsrc\\8f01249c824e28c9479370054bfca37fe8d31edf2a7cb542b8e621b644593f29\\ExceptionDispatchInfo.cs",
+              "ToolTip": "C:\\Users\\win10\\AppData\\Local\\Temp\\.vsdbgsrc\\8f01249c824e28c9479370054bfca37fe8d31edf2a7cb542b8e621b644593f29\\ExceptionDispatchInfo.cs [Read Only]",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewEoAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:55:52.396Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JobsResponce.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\JobsResponce.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\JobsResponce.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\JobsResponce.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\JobsResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:26:06.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "tbl_job.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\tbl_job.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\tbl_job.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\tbl_job.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\tbl_job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:33:56.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\Utilities.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\Utilities.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\Utilities.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:24:49.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CEDataClass.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\CEDataClass.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\CEDataClass.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\CEDataClass.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\CEDataClass.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwHMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:51:48.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CEDashboardModel.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\CEDashboardModel.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\CEDashboardModel.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\CEDashboardModel.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\CEDashboardModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIA/wDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:31:29.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\ChangePasswordModel.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ChangePasswordModel.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\ChangePasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:31:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CrmDbContext.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\CrmDbContext.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\CrmDbContext.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\CrmDbContext.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\CrmDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:36:21.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "m2ostnextserviceDbContext.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\m2ostnextserviceDbContext.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\m2ostnextserviceDbContext.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\m2ostnextserviceDbContext.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\m2ostnextserviceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:36:15.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ColorConfigModels.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ColorConfigModels.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\ColorConfigModels.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ColorConfigModels.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\ColorConfigModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:31:25.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ColorConfigLogic.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ColorConfigLogic.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\ColorConfigLogic.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ColorConfigLogic.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\ColorConfigLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:31:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChangePasswordLogic.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ChangePasswordLogic.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Models\\ChangePasswordLogic.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Models\\ChangePasswordLogic.cs",
+              "RelativeToolTip": "skillmuniwebservice\\Models\\ChangePasswordLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:31:20.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\App_Start\\RouteConfig.cs",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "skillmuniwebservice\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:19:15.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "skillmuniwebservice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\TGC\\Skillmuni_Job_Api\\skillmuniwebservice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "skillmuniwebservice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T07:19:04.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
