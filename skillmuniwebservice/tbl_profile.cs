@@ -35,7 +35,7 @@ namespace m2ostnextservice
         public string STATE { get; set; }
         public int ResumeFlag { get; set; }
         public string ResumeLocation { get; set; }
-        public int id_degree { get; set; }
+        public int? id_degree { get; set; }
         public int id_stream { get; set; }
         public string ref_code { get; set; }
         public string COUNTRY { get; set; }

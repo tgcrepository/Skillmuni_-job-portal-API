@@ -71,13 +71,13 @@ namespace m2ostnextservice.Controllers
 
         [HttpGet]
         [Route("GetJobs_UserPreferences")]
-        public IHttpActionResult GetJobs_UserPreferences(int UID, int OID=0)
+        public IHttpActionResult GetJobs_UserPreferences(int UID, int OID = 0)
         {
             int PreferenceCount = 0;
             List<tbl_job> tbl_Jobs = new List<tbl_job>();
             string WhereClause = "";
             try
-            {             
+            {
                 using (m2ostnextserviceDbContext db = new m2ostnextserviceDbContext())
                 {
                     PreferenceCount = db.Database.SqlQuery<int>("select COUNT(*) from  tbl_user_job_preferences where id_user={0} ", UID).FirstOrDefault();
@@ -101,7 +101,7 @@ namespace m2ostnextservice.Controllers
                                 if (i == 0)
                                 {
                                     WhereClause = WhereClause != "" ? (WhereClause + " OR ") : WhereClause;
-                                    WhereClause += " (tj.jobrequiremnt like '%"+ preferredSkills[i].skill + "%'";
+                                    WhereClause += " (tj.jobrequiremnt like '%" + preferredSkills[i].skill + "%'";
                                 }
                                 else
                                 {
@@ -146,7 +146,7 @@ namespace m2ostnextservice.Controllers
                                 if (i == 0)
                                 {
                                     WhereClause = WhereClause != "" ? (WhereClause + " OR ") : WhereClause;
-                                    WhereClause += " (((tj.experiance_year*12)+tj.experiance_month) >= '" + ((preferredExperience[i].experience_years*12)+ preferredExperience[i].experience_months - 36) + "' AND ((experiance_year*12)+experiance_month)<='"+ ((preferredExperience[i].experience_years * 12) + preferredExperience[i].experience_months + 36) + "'";
+                                    WhereClause += " (((tj.experiance_year*12)+tj.experiance_month) >= '" + ((preferredExperience[i].experience_years * 12) + preferredExperience[i].experience_months - 36) + "' AND ((experiance_year*12)+experiance_month)<='" + ((preferredExperience[i].experience_years * 12) + preferredExperience[i].experience_months + 36) + "'";
                                 }
                                 else
                                 {
@@ -161,8 +161,8 @@ namespace m2ostnextservice.Controllers
 
                         #region User Education
 
-                        preferredEducation = db.Database.SqlQuery<tbl_profile>("select * from  tbl_profile where id_user={0} ", UID).ToList();
-
+                        preferredEducation = db.Database.SqlQuery<tbl_profile>("select id_degree from  tbl_profile where id_user='" + UID.ToString() + "'").ToList();
+                        ////var Data1 = db.Database.SqlQuery<string>("select id_degree from  tbl_profile where id_user='{0}'", UID.ToString()).FirstOrDefault();
                         if (preferredEducation.Count > 0)
                         {
                             for (int i = 0; i < preferredEducation.Count; i++)
@@ -233,15 +233,15 @@ namespace m2ostnextservice.Controllers
                         #endregion
                     }
 
-                    if (WhereClause!="")
+                    if (WhereClause != "")
                     {
                         WhereClause = " AND (" + WhereClause + ")";
 
                         string Query = "select tj.* from tbl_job tj LEFT JOIN tbl_job_location_mapping tjl on tj.id_job=tjl.id_job LEFT JOIN tbl_job_type tjt on tjt.job_type=tj.jobtype LEFT JOIN tbl_degree_master tdm on tj.minquali=tdm.degree where tj.status='A'";
-                        
+
                         if (OID > 0)
                         {
-                            Query = "select tj.* from tbl_job tj LEFT JOIN tbl_job_location_mapping tjl on tj.id_job=tjl.id_job LEFT JOIN tbl_job_type tjt on tjt.job_type=tj.jobtype LEFT JOIN tbl_degree_master tdm on tj.minquali=tdm.degree where tj.status='A' AND tbl_organization_id='" + OID + "';";
+                            Query = "select tj.* from tbl_job tj LEFT JOIN tbl_job_location_mapping tjl on tj.id_job=tjl.id_job LEFT JOIN tbl_job_type tjt on tjt.job_type=tj.jobtype LEFT JOIN tbl_degree_master tdm on tj.minquali=tdm.degree where tj.status='A' AND tbl_organization_id='" + OID + "'";
                         }
 
                         Query = Query + WhereClause;
@@ -256,7 +256,7 @@ namespace m2ostnextservice.Controllers
                                     item.applyflag = 1;
                             }
                         }
-                    }                   
+                    }
                 }
             }
             catch (Exception ex)
