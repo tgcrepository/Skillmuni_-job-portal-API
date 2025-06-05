@@ -89,6 +89,7 @@ namespace m2ostnextservice.Controllers
                         List<tbl_user_job_industry_mapping> preferredIndustry = new List<tbl_user_job_industry_mapping>();
                         List<tbl_user_job_type_mapping> preferredJobType = new List<tbl_user_job_type_mapping>();
                         List<tbl_user_job_preferences> preferredExperience = new List<tbl_user_job_preferences>();
+                        List<tbl_profile> preferredEducation = new List<tbl_profile>();
 
                         #region User Skills
                         preferredSkills = db.Database.SqlQuery<tbl_user_job_preferences_skill>("select * from  tbl_user_job_preferences_skill where id_user={0} ", UID).ToList();
@@ -159,6 +160,26 @@ namespace m2ostnextservice.Controllers
                         #endregion
 
                         #region User Education
+
+                        preferredEducation = db.Database.SqlQuery<tbl_profile>("select * from  tbl_profile where id_user={0} ", UID).ToList();
+
+                        if (preferredEducation.Count > 0)
+                        {
+                            for (int i = 0; i < preferredEducation.Count; i++)
+                            {
+                                if (i == 0)
+                                {
+                                    WhereClause = WhereClause != "" ? (WhereClause + " OR ") : WhereClause;
+                                    WhereClause += " (tdm.id_degree = '" + preferredEducation[i].id_degree + "'";
+                                }
+                                else
+                                {
+                                    WhereClause += " OR tdm.id_degree = '" + preferredEducation[i].id_degree + "'";
+                                }
+                            }
+                            WhereClause += ")";
+                        }
+
                         #endregion
 
                         #region User Industry
@@ -216,11 +237,11 @@ namespace m2ostnextservice.Controllers
                     {
                         WhereClause = " AND (" + WhereClause + ")";
 
-                        string Query = "select tj.* from tbl_job tj LEFT JOIN tbl_job_location_mapping tjl on tj.id_job=tjl.id_job LEFT JOIN tbl_job_type tjt on tjt.job_type=tj.jobtype where tj.status='A'";
+                        string Query = "select tj.* from tbl_job tj LEFT JOIN tbl_job_location_mapping tjl on tj.id_job=tjl.id_job LEFT JOIN tbl_job_type tjt on tjt.job_type=tj.jobtype LEFT JOIN tbl_degree_master tdm on tj.minquali=tdm.degree where tj.status='A'";
                         
                         if (OID > 0)
                         {
-                            Query = "select tj.* from tbl_job tj LEFT JOIN tbl_job_location_mapping tjl on tj.id_job=tjl.id_job LEFT JOIN tbl_job_type tjt on tjt.job_type=tj.jobtype where tj.status='A' AND tbl_organization_id='" + OID + "';";
+                            Query = "select tj.* from tbl_job tj LEFT JOIN tbl_job_location_mapping tjl on tj.id_job=tjl.id_job LEFT JOIN tbl_job_type tjt on tjt.job_type=tj.jobtype LEFT JOIN tbl_degree_master tdm on tj.minquali=tdm.degree where tj.status='A' AND tbl_organization_id='" + OID + "';";
                         }
 
                         Query = Query + WhereClause;
