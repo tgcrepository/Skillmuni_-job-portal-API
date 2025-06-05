@@ -119,6 +119,26 @@ namespace m2ostnextservice.Models
 
     }
 
+    public class tbl_user_job_industry_mapping
+    {
+        public int mappping_id { get; set; }
+        public int user_id { get; set; }
+
+        public int industry_id { get; set; }
+        public string status { get; set; }
+        public DateTime updated_date_time { get; set; }
+    }
+
+    public class tbl_user_job_type_mapping
+    {
+        public int mappping_id { get; set; }
+        public int user_id { get; set; }
+
+        public int type_id { get; set; }
+        public string status { get; set; }
+        public DateTime updated_date_time { get; set; }
+    }
+
     public class tbl_user_job_preferences_job_type
     {
         public int id_pref_job { get; set; }
