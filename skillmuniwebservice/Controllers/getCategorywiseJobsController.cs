@@ -21,8 +21,13 @@ namespace m2ostnextservice.Controllers
             List<tbl_job> tbl_Jobs = new List<tbl_job>();
             using (m2ostnextserviceDbContext db = new m2ostnextserviceDbContext())
             {
+                string Query = "select * from tbl_job where id_ce_evaluation_jobindustry ='"+ IDJC + "' and status='A'";
 
-                tbl_Jobs = db.Database.SqlQuery<tbl_job>("select * from tbl_job where id_ce_evaluation_jobindustry ={0} and status='A'", IDJC).ToList();
+                if(OID>0)
+                {
+                    Query += " AND tbl_organization_id='" + OID + "'";
+                }
+                tbl_Jobs = db.Database.SqlQuery<tbl_job>(Query).ToList();
                 foreach(var item in tbl_Jobs)
                 {
                     item.loc = db.Database.SqlQuery<string>("SELECT name FROM cities ct INNER JOIN tbl_job_location_mapping ctm ON ct.id= ctm.city where ctm.id_job = {0};",item.id_job).ToList();
